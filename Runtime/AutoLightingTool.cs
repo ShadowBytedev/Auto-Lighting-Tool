@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
 
@@ -261,3 +262,4 @@ public class AutoLightingTool : EditorWindow
         }
     }
 }
+#endif
