@@ -1,8 +1,8 @@
 {
   "name": "dev.shadowbyte.autolightingtool",
-  "displayName": "dev.shadowbyte.autolightingtool",
+  "displayName": "Auto Lighting Tool",
   "version": "2.0.0",
-  "description": "Describe this Package",
+  "description": "automatically add the right amount of lighting to your world",
   "dependencies": {},
   "gitDependencies": {},
   "vpmDependencies": {
